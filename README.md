@@ -41,14 +41,14 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
+###  contributions in the last year
 ![snake gif](https://github.com/pushpendrraa/pushpendrraa/blob/output/github-snake-dark.svg)
 
 ---
 
 ### 📫 Connect With Me
 - 💼 GitHub: https://github.com/pushpendrraa
-- 📧 Email: your-email@example.com
+- 📧 Email: pushpendra91104@gmail.com
 
 ---
 
