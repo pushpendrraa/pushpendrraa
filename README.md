@@ -8,11 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Learning **JavaScript deeply**
-- 💡 Interested in **Problem Solving & Data Structures**
-- 🎯 Goal: Become a **Freelance Web Developer**
-- ⚡ Fun fact: I love solving **DSA problems in C++**
+💻 I enjoy building projects and learning new technologies.
+📚 Currently improving my skills in Web Development and Problem Solving.
+⚡ I like turning ideas into real-world applications and experimenting with new tools.
+🌱 Always learning, always building.
 
 ---
 
